@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-/*
+
 // 1. Swap 2 nos
 void swap(int *n1, int *n2);
 
@@ -32,7 +32,7 @@ void main() {
 int add(int n1, int n2) {
 	return n1 + n2;
 }
-*/
+
 // 3. Return max of 3 nos
 int max(int nos[]);
 
